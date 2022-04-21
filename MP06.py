@@ -1,4 +1,4 @@
-#Enci Peng, Eric Allen
+
 import turtle
 import random
 
